@@ -49,7 +49,7 @@ A detailed fact view (**v_sales_detailed**) was created by joining:
 This view serves as the **single source of truth** for all reporting.
 
 **Revenue Logic:**  
-```sql
+
 revenue = unit_price * quantity
 
 ## 📊 Key Metrics & KPIs
