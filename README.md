@@ -78,6 +78,7 @@ The Power BI report is organized into **four pages**:
 - High-level KPI cards
 - Monthly revenue trend
 - Summary performance indicators
+<img src="https://github.com/hmaxim01/chinook-analytics/raw/images/executive_summary.png" width="45%" style="margin-right:5%"/>
 
 **Sales Analysis**
 - Revenue by genre and artist
