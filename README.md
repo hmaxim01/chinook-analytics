@@ -72,7 +72,7 @@ All business logic is centralized in **SQL views** and **Power BI measures**.
 
 ## 📈 Dashboard Structure
 
-The Power BI report is organized into **four pages**:
+The Power BI report is organized into **three pages**:
 
 **Executive Overview**
 - High-level KPI cards
@@ -84,12 +84,13 @@ The Power BI report is organized into **four pages**:
 - Revenue by genre and artist
 - Top tracks by revenue
 - Product performance insights
+- <img src="https://github.com/hmaxim01/chinook-analytics/raw/images/sales_analysis.png" width="45%"/> </div>
 
 **Customer Insights**
 - Yearly active customers
 - Geographic revenue distribution
 - Customer purchasing patterns (LTV)
-
+<img src="https://github.com/USERNAME/REPO/raw/images/customer_analytics.png" width="45%"/> </div>
 ---
 
 ## 🔍 Key Insights
