@@ -84,13 +84,14 @@ The Power BI report is organized into **three pages**:
 - Revenue by genre and artist
 - Top tracks by revenue
 - Product performance insights
-- <img src="https://github.com/hmaxim01/chinook-analytics/raw/images/sales_analysis.png" width="45%"/>
+<img src="https://github.com/hmaxim01/chinook-analytics/raw/images/sales_analysis.png" width="45%" style="margin-right:5%"/>
 
 **Customer Insights**
 - Yearly active customers
 - Geographic revenue distribution
 - Customer purchasing patterns (LTV)
-<img src="https://github.com/USERNAME/REPO/raw/images/customer_analytics.png" width="45%"/>
+<img src="https://github.com/hmaxim01/chinook-analytics/raw/images/customer_analytics.png" width="45%" style="margin-right:5%"/>
+
 ---
 
 ## 🔍 Key Insights
